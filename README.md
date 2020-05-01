@@ -1,2 +1,0 @@
-# MeditationApp
-Created with CodeSandbox
